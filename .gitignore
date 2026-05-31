@@ -1,0 +1,7 @@
+# Ambientes Virtuais e Cache do Python
+.venv/
+__pycache__/
+
+# Arquivos de IA e Anotações pessoais
+.github/
+.env
