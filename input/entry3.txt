@@ -1,0 +1,1 @@
+Refatore o código colocando as lógicas dentro de funções (def). Crie um fluxo principal que varre a pasta entradas/, limpa os textos, constrói um vocabulário global unificado e, em seguida, gera e salva o vetor BoW para cada arquivo individualmente.
